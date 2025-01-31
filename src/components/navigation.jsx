@@ -1,5 +1,6 @@
 import React from "react";
 
+
 export const Navigation = (props) => {
   return (
     <nav id="menu" className="navbar navbar-default navbar-fixed-top">
@@ -34,7 +35,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#about" className="page-scroll">
-                About
+                Sobre mim
               </a>
             </li>
             <li>
