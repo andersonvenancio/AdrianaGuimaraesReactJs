@@ -4,18 +4,15 @@
     "paragraph": "vidas, equipes e organizações com ciência, propósito e resultados."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-    "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+    "paragraph": "Olá! Sou Adriana Magalhães, psicóloga com mais de 20 anos de experiência em gestão e desenvolvimento organizacional. Minha missão é ajudar pessoas e empresas a desbloquearem seu verdadeiro potencial por meio de abordagens científicas, humanas e personalizadas. Acredito que, com as ferramentas certas, é possível criar uma vida mais plena, cheia de propósito e alcançar resultados duradouros.",
+    "Why": [ 
+      "Paixão de transformar vidas e organizações",
+      "Mais de 20 anos de experiência"
+     
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Criar ambientes mais felizes, saudáveis e produtivos.",
+      "Psicologia com a humanização"
     ]
   },
   "Gallery": [

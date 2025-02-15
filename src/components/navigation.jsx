@@ -1,5 +1,6 @@
 import React from "react";
 import LogoImag from "./Logo.png";
+import "./LogoImg.css";
 
 
 export const Navigation = (props) => {
@@ -21,7 +22,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="" href="#page-top">
+          <a className="LogoTopo" href="#page-top">
           <img src={LogoImag} alt="Logo"  width="100" srcset="" />
           </a>{" "}
         </div>
