@@ -8,6 +8,8 @@ import { Gallery } from "./components/gallery";
 import { Testimonials } from "./components/testimonials";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
+import { FloatingWhatsApp } from 'react-floating-whatsapp'
+import "./App.css";
 
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
@@ -34,6 +36,11 @@ const App = () => {
       <Gallery data={landingPageData.Gallery} />
       <Testimonials data={landingPageData.Testimonials} />
       <Team data={landingPageData.Team} />
+      <FloatingWhatsApp
+        phoneNumber="5584994797413"
+        accountName="Adriana Magalhaes"
+        avatar="/img/profile.jpg"
+      />
       <Contact data={landingPageData.Contact} />
       
     </div>

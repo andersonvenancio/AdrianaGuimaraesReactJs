@@ -1,8 +1,6 @@
-# React Landing Page Template
+# Site institucional Adriana Magalhães
 
-This project is a responsive React landing page template designed for easy customization and quick deployment.
-
-The template provides a modern, single-page design with smooth scrolling navigation and multiple sections to showcase various aspects of a business or product. It leverages React for efficient component-based development and includes features such as a responsive layout, image gallery, testimonials, and a contact form.
+Esse projeto, foi desenvolvido com o objetivo de apresentar o
 
 ## Repository Structure
 

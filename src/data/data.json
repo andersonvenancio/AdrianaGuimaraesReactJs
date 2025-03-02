@@ -64,35 +64,21 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-lightbulb-o",
+      "name": "Psicoterapia Positiva e Comportamental",
+      "text": "A psicoterapia é uma jornada para o autoconhecimento, e estou aqui para caminhar ao seu lado."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-line-chart",
+      "name": "Mentoria de Liderança Positiva",
+      "text": "Se você é um líder ou deseja se tornar um, minha Mentoria de Liderança Positiva foi criada para ajudar a desenvolver competências essenciais para liderar com confiança, alinhamento e eficácia."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-user-md",
+      "name": "Avaliação Psicológica e Consultoria",
+      "text": "Entender seu perfil comportamental ou o de sua equipe é essencial para alcançar um desempenho mais eficaz."
     }
+    
   ],
   "Testimonials": [
     {
@@ -149,21 +135,20 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": " ",
+    "phone": "+55 84 9479-7413 ",
+    "email": "contato@adrianamagalhaes.com.br",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "instagram": "instagram.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
+      "icon": "fa fa-file-text-o",
       "title": "Certificação CAPP",
       "text": "Certificação CAPP (Psicologia Positiva Avançada)."
     },
     {
-      "icon": "fa fa-bullhorn",
+      "icon": "fa fa-certificate",
       "title": "Formação CSI",
       "text": "Formação CSI – Interventora com Forças de Caráter e Virtudes"
     },
@@ -173,7 +158,7 @@
       "text": "Análise de Perfil Comportamental (Solides – LLC Internacional)."
     },
     {
-      "icon": "fa fa-magic",
+      "icon": "fa fa-star",
       "title": "Especialista",
       "text": "Especialista em TDAH e TOD"
     }
