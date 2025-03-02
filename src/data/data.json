@@ -17,50 +17,36 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Gervásio Farias",
+      "largeImage": "https://youtube.com/shorts/glQfVIptBLE?feature=share ",
+      "smallImage": "img/portfolio/Gervasio Farias Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Valéria Cardoso",
+      "largeImage": "https://youtube.com/shorts/997Qhr5Sf3w?feature=share ", 
+      "smallImage": "img/portfolio/Valeria Cardoso Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Dalianne Soares",
+      "largeImage": "https://youtube.com/shorts/hmJXoEcmhx8?feature=share",
+      "smallImage": "img/portfolio/Dalianne Soares Small.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Mentoria",
+      "largeImage": "https://youtu.be/d9hHm5FwlNg ",
+      "smallImage": "img/portfolio/mentoria.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Motivacional",
+      "largeImage": "https://youtu.be/5JTaOgnkUPk ",
+      "smallImage": "img/portfolio/motivacional.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Palestra",
+      "largeImage": "https://youtu.be/bcvJ0hXKZVY",
+      "smallImage": "img/portfolio/palestra.jpg"
     }
+   
   ],
   "Services": [
     {
@@ -82,34 +68,19 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/testimonials/gf.jpg",
+      "text": "\"Pra mim a mentoria foi transformadora! Foi o combustível que me impulsionou a buscar o melhor de mim mesmo, a superar desafios e a enxergar oportunidades onde antes só via obstáculos.\"",
+      "name": "Gervásio Farias"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/ds.jpg",
+      "text": "\"A mentoria me trouxe reflexões muito importantes e isso tem agregado muito na minha vida profissional e na minha vida pessoal.\"",
+      "name": "Dalianne Soares"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/testimonials/va.jpg",
+      "text": "\"Foi muito gratificante evoluir como pessoa e evoluindo como pessoa, que esse é o objetivo da monitoria, é evoluir profissionalmente, claro.\"",
+      "name": "Valéria Cardoso"
     }
   ],
   "Team": [

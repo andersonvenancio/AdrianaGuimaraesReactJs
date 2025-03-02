@@ -85,9 +85,9 @@ export function FloatingWhatsApp({
   onLoopDone,
 
   phoneNumber = "558494797413",
-  accountName = "Account Name",
+  accountName = "Adriana Magalhães",
   avatar = dummyAvatar,
-  statusMessage = "Em geral, respondemos dentro de 1 hora.",
+  statusMessage= "Em geral, respondemos dentro de 1 hora.",
   chatMessage = "Olá! Sou Adriana Magalhães! 🤝 \nComo posso ajudar?",
   placeholder = "Digitando..",
 
